@@ -11,7 +11,7 @@ class Post
 
  def author(author)
    self.author = author
-
+end
  def author
    self.author
 
